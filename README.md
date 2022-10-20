@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+(●'◡'●) About me
+
+🧒
+I am current MSCS student at the University of San Francisco. 
+    I has a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background. Machine learning was a major field, and now I am also good at Full-stack development.
+    I am finding an software development internship in Summer 2023. Thank you for spending time on reviewing my profile!
+
+
 <!--
 **Shelger/Shelger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
