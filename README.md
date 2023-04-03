@@ -4,8 +4,13 @@
 
 🧒
 I am current MSCS student at the University of San Francisco. 
-    I has a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background. Machine learning was a major field, and now I am also good at Full-stack development.
-    I am finding an software development internship in Summer 2023. Thank you for spending time on reviewing my profile!
+    I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background. Machine learning was a major field, and now I am also good at Full-stack development.
+    I am...
+    - Objective: Seeking a summer internship in software engineering.
+    - Past industrial experience in web application development.
+    - Outstanding Technical and Research ability.
+    - Proactive and self-motivated team player with strong communication skills.
+
 
 
 <!--
