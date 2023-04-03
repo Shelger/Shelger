@@ -4,7 +4,7 @@
 
 🧒
     I am current MSCS student at the University of San Francisco. <br>
-    I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background.
+    I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has an interdisciplinary background.
    # Good At
     - Web/mobile Application
     - Machine Learning
