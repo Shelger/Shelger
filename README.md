@@ -3,7 +3,7 @@
 ## (●'◡'●) About me
 
 🧒
-# I am current MSCS student at the University of San Francisco. 
+I am current MSCS student at the University of San Francisco. <br>
     I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background. Machine learning was a major field, and now I am also good at Full-stack development.
    # I am now...
     - Objective: Seeking a summer internship in software engineering.<br>
