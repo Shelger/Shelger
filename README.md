@@ -3,15 +3,15 @@
 ## (●'◡'●) About me
 
 🧒
-I am current MSCS student at the University of San Francisco. <br>
+    I am current MSCS student at the University of San Francisco. <br>
     I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has a interdisciplinary background. Machine learning was a major field, and now I am also good at Full-stack development.
    # I am now...
-    - Objective: Seeking a summer internship in software engineering.<br>
-    - Past industrial experience in web application development.<br>
-    - Outstanding Technical and Research ability.<br>
-    - Proactive and self-motivated team player with strong communication skills.<br>
+    - Objective: Seeking a summer internship in software engineering.
+    - Past industrial experience in web application development.
+    - Outstanding Technical and Research ability.
+    - Proactive and self-motivated team player with strong communication skills.
 Language I use:<br>
-    :computer:- C/C++, Java, SQL, Go, Python, JavaScript<, HTML/CSS<br>
+    :computer:- C/C++, Java, SQL, Go, Python, JavaScript, HTML/CSS<br>
 Tools:<br>
     :bulb:- Postgres, React, MaterialUI, Github, REST API, HDFS, IP/TCP, MATLAB, Numpy, Pandas, TensorFlow<br>
 
