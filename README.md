@@ -9,14 +9,14 @@
     - Web/mobile Application
     - Machine Learning
    # I am now...
-    - Objective: Seeking a summer internship in software engineering.
+    - Objective: Seeking a full-time position in software engineering.
     - Past industrial experience in web application development.
     - Outstanding Technical and Research ability.
     - Proactive and self-motivated team player with strong communication skills.
 Language I use:<br>
     :computer:- C/C++, Java, SQL, Go, Python, JavaScript, HTML/CSS<br>
 Tools:<br>
-    :bulb:- Postgres, React, MaterialUI, Github, REST API, HDFS, IP/TCP, MATLAB, Numpy, Pandas, TensorFlow<br>
+    :bulb:- Postgres, React, MaterialUI, Github, REST API, HDFS, IP/TCP, MATLAB, Numpy, Pandas, TensorFlow, PyTorch, Friebase <br>
 
 
 <!--
