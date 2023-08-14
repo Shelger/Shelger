@@ -5,6 +5,16 @@
 🧒
     I am current MSCS student at the University of San Francisco. <br>
     I have a bachelor's degree in Mechanical Engineering and a master's degree in Business, which means I has an interdisciplinary background.
+
+# I like:
+    :star:
+    :video_game: Monster Hunter
+    :dress: Audrey Hepburn
+    :fishing_pole_and_fish: Fishing
+    :basketball_man: Basketball
+    :sushi: Sushi
+    :waffle: Taiyaki
+
    # Good At
     - Web/mobile Application
     - Machine Learning
