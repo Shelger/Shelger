@@ -16,8 +16,12 @@
     🥯 Taiyaki
 
    # Good At
-    - Web/mobile Application
-    - Machine Learning
+    - Web Application
+    - Machine Learning 
+        - NLP
+        - Deep Learning
+        - Finetune
+    - Cloud Computing
    # I am now...
     - Objective: Seeking a full-time position in software engineering.
     - Past industrial experience in web application development.
