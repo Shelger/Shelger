@@ -24,13 +24,13 @@
     - Cloud Computing
    # I am now...
     - Objective: Seeking a full-time position in software engineering.
-    - Past industrial experience in web application development.
+    - Past industrial experience in web application development and Large Language Model applications.
     - Outstanding Technical and Research ability.
     - Proactive and self-motivated team player with strong communication skills.
 Language I use:<br>
     :computer:- C/C++, Java, SQL, Go, Python, JavaScript, HTML/CSS<br>
 Tools:<br>
-    :bulb:- Postgres, React, MaterialUI, Github, REST API, HDFS, IP/TCP, MATLAB, Numpy, Pandas, TensorFlow, PyTorch, Friebase <br>
+    :bulb:- Milvus, Chromadb, OpenAi, Langchain, Postgres, React, MaterialUI, Github, REST API, HDFS, IP/TCP, MATLAB, Numpy, Pandas, TensorFlow, PyTorch, Friebase <br>
 
 
 <!--
